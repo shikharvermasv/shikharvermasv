@@ -76,10 +76,7 @@ Currently building deeper expertise in Terraform, AWS infrastructure, CI/CD, Pyt
 🤖 AI Engineering — LLM APIs, RAG, AI agents, asynchronous backend workflows
 🔧 Cloud Operations — Incident troubleshooting, access management, VPN, compute and cloud support
 
-<!--
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <!--                         WHAT I BUILD                                  -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
