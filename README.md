@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rishabh-singh04&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=667eea&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
