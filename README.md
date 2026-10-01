@@ -6,36 +6,24 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,45:0077B6,100:00C896&height=190&section=header&text=SHIKHAR%20VERMA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=Shikhar%20Verma&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
     width="100%"
   />
 </p>
 
-<h3 align="center">
-  ☁️ Cloud & DevOps Engineer
-</h3>
-
 <p align="center">
-  <b>AWS • Terraform • Python • CI/CD • Docker</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&height=38&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Python;Cloud+Infrastructure+%26+Automation;AI-Powered+Backend+Engineering"
+    alt="Typing introduction"
+  />
 </p>
 
 <p align="center">
-  Building cloud infrastructure, automation pipelines, and AI-powered backend systems.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&height=28&pause=2500&color=8B949E&center=true&vCenter=true&width=720&lines=Building+infrastructure+that+can+be+automated%2C+understood%2C+and+maintained."
+    alt="Tagline"
+  />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-0077B6?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Backend-00C896?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-<p align="center">
-  <i>Infrastructure • Automation • Backend Engineering • AI</i>
-</p>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
