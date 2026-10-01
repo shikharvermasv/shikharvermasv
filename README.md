@@ -33,25 +33,15 @@
 
 <p align="center">
 
-  <a href="https://github.com/shikharvermasv">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/shikhar-verma-1b822722b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
- 
+  
 
-  <a href="https://www.linkedin.com/in/shikhar-verma-1b822722b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:shikharverma.sv22@gamil.com"> <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
- 
+  
 
-  <a href="mailto:shikharverma.sv22@gamil.com">
-    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
- 
-
-  <img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=00B4D8&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=00B4D8&style=for-the-badge" alt="Profile views" />
 
 </p>
 
