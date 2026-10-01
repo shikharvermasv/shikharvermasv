@@ -345,12 +345,5 @@ Currently preparing / strengthening:
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:0077B6,100:00B4D8&height=120&section=footer"
-    width="100%"
-  />
-</p>
-
-<p align="center">
   <i>Automate infrastructure. Build reliable systems. Ship with purpose.</i>
 </p>
