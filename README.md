@@ -261,9 +261,7 @@ I am particularly interested in the intersection of:
 
 ## 🏆 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> </p>
 
 Currently preparing / strengthening:
 
