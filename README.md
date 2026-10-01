@@ -32,17 +32,19 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/shikhar-verma-1b822722b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-  
-
-<a href="mailto:shikharverma.sv22@gamil.com"> <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
-  
-
-<img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=00B4D8&style=for-the-badge" alt="Profile views" />
-
+  <a href="https://github.com/shikharvermasv">
+    <img src="https://img.shields.io/github/followers/rishabh-singh04?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shikhar-verma-1b822722b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:shikharverma.sv22@gamil.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rishabh-singh04&color=667eea&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
