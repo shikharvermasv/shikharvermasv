@@ -69,12 +69,12 @@ I work across AWS, Azure, and GCP environments, with hands-on exposure to cloud 
 
 Currently building deeper expertise in Terraform, AWS infrastructure, CI/CD, Python automation, Docker, and AI-powered backend systems.
 
-☁️ Cloud Infrastructure — AWS, Azure, GCP, IAM/RBAC, EC2, VPC, networking fundamentals
-🏗️ Infrastructure as Code — Terraform modules, remote state, reusable infrastructure, AWS provisioning
-🔄 DevOps — Git, GitHub, GitHub Actions, CI/CD fundamentals, Linux, Docker
-🐍 Backend & Automation — Python, FastAPI, REST APIs, scripting and automation
-🤖 AI Engineering — LLM APIs, RAG, AI agents, asynchronous backend workflows
-🔧 Cloud Operations — Incident troubleshooting, access management, VPN, compute and cloud support
+- ☁️ **Cloud Infrastructure** — AWS, Azure, GCP, IAM/RBAC, EC2, VPC, networking fundamentals
+- 🏗️ **Infrastructure as Code** — Terraform modules, remote state, reusable infrastructure, AWS provisioning
+- 🔄 **DevOps** — Git, GitHub, GitHub Actions, CI/CD fundamentals, Linux, Docker
+- 🐍 **Backend & Automation** — Python, FastAPI, REST APIs, scripting and automation
+- 🤖 **AI Engineering** — LLM APIs, RAG, AI agents, asynchronous backend workflows
+- 🔧 **Cloud Operations** — Incident troubleshooting, access management, VPN, compute and cloud support
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         WHAT I BUILD                                  -->
 
