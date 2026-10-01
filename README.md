@@ -41,11 +41,11 @@ Terraform-based AWS infrastructure and container deployment platform using AWS, 
 
 ## 📚 Currently Learning
 
-* AWS Solutions Architect
-* Terraform
-* Kubernetes
-* Cloud automation
-* DevOps practices
+- AWS Solutions Architect Associate
+- Terraform
+- Kubernetes
+- Cloud automation
+- DevOps practices
 
 ## 📫 Connect
 
