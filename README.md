@@ -1,243 +1,380 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 
-<!--                         ANIMATED HEADER                               -->
+<!--                         HERO SECTION                                 -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=header&text=Shikhar%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:00C896&height=170&section=header&text=Shikhar%20Verma&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&height=35&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Python;Cloud+Infrastructure+%26+Automation;Building+AI-Powered+Backend+Systems" alt="Roles" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&height=38&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Python;Cloud+Infrastructure+%26+Automation;AI-Powered+Backend+Engineering"
+    alt="Typing introduction"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&height=28&pause=2000&color=8B949E&center=true&vCenter=true&width=700&lines=Building+cloud+infrastructure%2C+automation%2C+and+production-ready+backend+systems" alt="Tagline" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&height=28&pause=2500&color=8B949E&center=true&vCenter=true&width=720&lines=Building+infrastructure+that+can+be+automated%2C+understood%2C+and+maintained."
+    alt="Tagline"
+  />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                         SOCIAL BADGES                                -->
+<!--                           QUICK LINKS                                 -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
+
   <a href="https://github.com/shikharvermasv">
-    <img src="https://img.shields.io/github/followers/shikharvermasv?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shikharverma">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+ 
+
+  <a href="https://www.linkedin.com/in/shikhar-verma-1b822722b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=667eea&style=for-the-badge" alt="Profile Views" />
+
+ 
+
+  <a href="mailto:shikharverma.sv22@gamil.com">
+    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+ 
+
+  <img src="https://komarev.com/ghpvc/?username=shikharvermasv&color=00B4D8&style=for-the-badge" alt="Profile views" />
+
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&section=footer&reversal=true" width="80%" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                         INTRODUCTION                                  -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                              ABOUT                                    -->
+## 👋 About Me
+
+I'm a **Programmer Analyst at Cognizant** working with cloud environments and infrastructure operations, while building deeper expertise in **Cloud, DevOps, Infrastructure as Code, and backend engineering**.
+
+My current focus is turning infrastructure and application requirements into systems that are **repeatable, automated, observable, and maintainable**.
+
+```text
+Cloud        → AWS • Azure • GCP
+IaC          → Terraform
+DevOps       → Git • GitHub Actions • CI/CD • Docker
+Programming  → Python • FastAPI
+AI           → LLM Applications • RAG • AI Agents
+OS           → Linux
+```
+
+### What I Work On
+
+* ☁️ Cloud infrastructure and AWS services
+* 🏗️ Infrastructure as Code using Terraform
+* 🔐 IAM, RBAC and cloud access management
+* 🔄 CI/CD workflows and Git-based development
+* 🐳 Containerized backend applications
+* 🐍 Python automation and API development
+* 🤖 AI-powered backend applications
+* 🔧 Cloud troubleshooting and infrastructure support
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🧠 About
-
-I'm a **Programmer Analyst at Cognizant** focused on cloud infrastructure, DevOps, automation, and backend engineering.
-
-I work across **AWS, Azure, and GCP environments**, with hands-on exposure to cloud operations, IAM/RBAC, incident resolution, infrastructure troubleshooting, and cloud governance.
-
-Currently building deeper expertise in **Terraform, AWS infrastructure, CI/CD, Python automation, Docker, and AI-powered backend systems**.
-
-* ☁️ **Cloud Infrastructure** — AWS, Azure, GCP, IAM/RBAC, EC2, VPC, networking fundamentals
-* 🏗️ **Infrastructure as Code** — Terraform modules, remote state, reusable infrastructure, AWS provisioning
-* 🔄 **DevOps** — Git, GitHub, GitHub Actions, CI/CD fundamentals, Linux, Docker
-* 🐍 **Backend & Automation** — Python, FastAPI, REST APIs, scripting and automation
-* 🤖 **AI Engineering** — LLM APIs, RAG, AI agents, asynchronous backend workflows
-* 🔧 **Cloud Operations** — Incident troubleshooting, access management, VPN, compute and cloud support
+<!--                         WHAT I BUILD                                  -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                           TECH STACK                                  -->
+## 🛠️ What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Infrastructure
+
+Building AWS infrastructure with Terraform instead of manually creating resources.
+
+**Focus areas**
+
+* VPC & networking
+* EC2
+* IAM
+* Security Groups
+* Terraform modules
+* Remote state
+* Environment separation
+* Infrastructure automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Applications
+
+Building backend systems that combine Python APIs with modern AI capabilities.
+
+**Focus areas**
+
+* FastAPI
+* LLM APIs
+* RAG
+* Async processing
+* AI agents
+* Docker
+* AWS deployment
+* CI/CD
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🧩 Tech Stack
+<!--                          TECH STACK                                   -->
 
-### Languages
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=python,cpp,js,bash" />
-</p>
+## ⚙️ Technical Stack
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&i=aws,azure,gcp,terraform,linux" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20IAM-667eea?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-764ba2?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20VPC-667eea?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-764ba2?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CLI-667eea?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-00B4D8?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-0077B6?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20VPC-00C896?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CLI-00B4D8?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-0077B6?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
-### DevOps & Tools
+### 🔄 DevOps & Automation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&i=docker,git,github,githubactions,linux" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-667eea?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-764ba2?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-667eea?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00B4D8?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0077B6?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Automation-00C896?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-### Backend & AI
+### 🐍 Programming & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=fastapi,postgres,docker" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=python,fastapi,flask,postgres,mysql" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20Automation-667eea?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-764ba2?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-667eea?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-764ba2?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-667eea?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-00B4D8?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0077B6?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00C896?style=flat-square&logoColor=white" />
+</p>
+
+### 🤖 AI & LLM Applications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-00B4D8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-0077B6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00C896?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00B4D8?style=flat-square&logoColor=white" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                         FEATURED PROJECTS                              -->
+<!--                       FEATURED PROJECTS                               -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud Infrastructure Provisioner
+### 01 · ☁️ Cloud Infrastructure Provisioner
 
-**Terraform-based AWS infrastructure provisioning platform focused on modular and reusable infrastructure.**
+**Terraform-based AWS infrastructure provisioning project designed around modular, reusable infrastructure.**
 
-* 🌐 Custom VPC and subnet architecture
-* 🔐 IAM roles and instance profiles
+**Built with**
+
+`AWS` `Terraform` `IAM` `VPC` `EC2` `S3` `GitHub Actions`
+
+**Implemented**
+
+* 🌐 Custom VPC architecture
+* 🧩 Public and private subnet design
 * 🖥️ EC2 provisioning
-* 🔥 Security groups and networking
-* 🧩 Reusable Terraform modules
-* 🗄️ Remote Terraform state using Amazon S3
-* 🔄 GitHub Actions CI/CD
-* 🏗️ Environment-based Terraform structure
+* 🔐 IAM roles and instance profiles
+* 🔥 Security groups
+* 🗂️ Reusable Terraform modules
+* 🗄️ S3 remote Terraform state
+* 🔄 GitHub Actions workflow
+* 🌱 Environment-based Terraform structure
 
 <p align="center">
   <a href="https://github.com/shikharvermasv/cloud-infrastructure-provisioner">
-    <img src="https://img.shields.io/badge/View%20Project-764ba2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Repository-0077B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-### 🤖 AI Sales Representative
+### 02 · 🤖 AI Sales Representative
 
-**AI-powered sales automation platform built with Python, FastAPI, LLMs, Docker, AWS, Terraform and CI/CD.**
+**AI-powered backend application for generating personalized sales communication using LLMs.**
 
-* ⚡ Async backend architecture
-* 🤖 LLM-powered personalized email generation
+**Built with**
+
+`Python` `FastAPI` `LLMs` `RAG` `Docker` `AWS` `Terraform` `GitHub Actions`
+
+**Implemented**
+
+* 🤖 LLM-powered email generation
 * 👤 Multiple communication personas
-* 🔄 Parallel processing for email generation
+* ⚡ Parallel processing
+* 🔄 Asynchronous backend workflows
+* 🌐 FastAPI backend
 * 🐳 Dockerized application
 * ☁️ AWS deployment architecture
-* 🏗️ Infrastructure managed with Terraform
-* 🔁 CI/CD pipeline with GitHub Actions
+* 🏗️ Terraform infrastructure
+* 🔁 CI/CD workflow
 
 <p align="center">
   <a href="https://github.com/shikharvermasv/AI-Sales-representative-agent">
-    <img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                         ENGINEERING FOCUS                             -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                        CERTIFICATIONS                                 -->
+## 🎯 Engineering Focus
+
+```text
+             ┌──────────────────────────┐
+             │       Cloud Systems      │
+             └────────────┬─────────────┘
+                          │
+             ┌────────────▼─────────────┐
+             │      Infrastructure      │
+             │        Terraform         │
+             └────────────┬─────────────┘
+                          │
+          ┌───────────────┼────────────────┐
+          ▼               ▼                ▼
+       AWS Cloud       CI / CD          Automation
+          │               │                │
+          └───────────────┼────────────────┘
+                          ▼
+                 ┌─────────────────┐
+                 │ Python Backend  │
+                 │   & AI Systems  │
+                 └─────────────────┘
+```
+
+I am particularly interested in the intersection of:
+
+**Cloud Infrastructure + Automation + Backend Engineering + AI**
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 Certifications & Learning
+<!--                         CERTIFICATIONS                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-Currently strengthening:
+Currently preparing / strengthening:
 
 * AWS Solutions Architecture
-* Terraform
+* HashiCorp Terraform
 * Kubernetes
 * CI/CD
 * Cloud Automation
-* Python Automation
-* AI/LLM Application Engineering
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                      CURRENTLY EXPLORING                              -->
+<!--                       CURRENTLY LEARNING                              -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-* ☁️ AWS cloud architecture & infrastructure
-* 🏗️ Advanced Terraform patterns and modules
-* 🔄 Production CI/CD pipelines
-* 🐳 Docker & containerized workloads
-* ☸️ Kubernetes
-* 🐍 Python-based cloud automation
-* 🤖 AI-powered backend applications
-* 💰 Cloud cost optimization
+| Area          | Focus                                       |
+| ------------- | ------------------------------------------- |
+| ☁️ AWS        | Architecture, networking, IAM, compute      |
+| 🏗️ Terraform | Modules, state, reusable infrastructure     |
+| 🔄 DevOps     | CI/CD, GitHub Actions, deployment workflows |
+| ☸️ Kubernetes | Containers, deployments, services           |
+| 🐍 Python     | Automation, APIs, backend engineering       |
+| 🤖 AI         | RAG, LLM applications, AI agents            |
+| 💰 Cloud      | Cost awareness and resource optimization    |
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                         GITHUB STATS                                  -->
+<!--                          GITHUB ACTIVITY                              -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikharvermasv&theme=github_dark" width="90%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikharvermasv&theme=github_dark"
+    width="92%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shikharvermasv&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shikharvermasv&theme=github_dark"
+  />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikharvermasv&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikharvermasv&theme=github_dark"
+  />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                           CONNECT                                     -->
+<!--                             CONNECT                                   -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:shikharverma.sv22@gamil.com">
+    <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+
+ 
+
+  <a href="https://www.linkedin.com/in/shikhar-verma-1b822722b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+
+ 
+
   <a href="https://github.com/shikharvermasv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -247,9 +384,12 @@ Currently strengthening:
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=&fontSize=0" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:0077B6,100:00B4D8&height=120&section=footer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <i>Build infrastructure. Automate relentlessly. Ship reliable systems.</i>
+  <i>Automate infrastructure. Build reliable systems. Ship with purpose.</i>
 </p>
