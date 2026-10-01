@@ -53,7 +53,15 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 👋 About Me
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&section=footer&reversal=true" width="80%" /> </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ABOUT -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+🧠 About
 
 I'm a Programmer Analyst at Cognizant focused on cloud infrastructure, DevOps, automation, and backend engineering.
 
@@ -68,16 +76,7 @@ Currently building deeper expertise in Terraform, AWS infrastructure, CI/CD, Pyt
 🤖 AI Engineering — LLM APIs, RAG, AI agents, asynchronous backend workflows
 🔧 Cloud Operations — Incident troubleshooting, access management, VPN, compute and cloud support
 
-### What I Work On
-
-* ☁️ Cloud infrastructure and AWS services
-* 🏗️ Infrastructure as Code using Terraform
-* 🔐 IAM, RBAC and cloud access management
-* 🔄 CI/CD workflows and Git-based development
-* 🐳 Containerized backend applications
-* 🐍 Python automation and API development
-* 🤖 AI-powered backend applications
-* 🔧 Cloud troubleshooting and infrastructure support
+<!--
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
