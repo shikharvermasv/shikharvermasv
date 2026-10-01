@@ -136,53 +136,29 @@ Building backend systems that combine Python APIs with modern AI capabilities.
 
 ## ⚙️ Technical Stack
 
-### ☁️ Cloud & Infrastructure
+Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=aws,azure,gcp,terraform,linux" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=python,cpp,js,bash" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20IAM-00B4D8?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-0077B6?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20VPC-00C896?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CLI-00B4D8?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-0077B6?style=flat-square&logo=terraform&logoColor=white" />
-</p>
+Cloud & Infrastructure
 
-### 🔄 DevOps & Automation
+<p align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=aws,azure,gcp,terraform,linux" /> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=docker,git,github,githubactions,linux" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/AWS%20IAM-667eea?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20EC2-764ba2?style=flat-square&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20VPC-667eea?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-764ba2?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20CLI-667eea?style=flat-square&logo=amazonaws&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-00B4D8?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0077B6?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Automation-00C896?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+DevOps & Tools
 
-### 🐍 Programming & Backend
+<p align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=docker,git,github,githubactions,linux" /> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=python,fastapi,flask,postgres,mysql" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/CI%2FCD-667eea?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-764ba2?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-667eea?style=flat-square&logo=fastapi&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00B4D8?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0077B6?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00C896?style=flat-square&logoColor=white" />
-</p>
+Backend & AI
 
-### 🤖 AI & LLM Applications
+<p align="center"> <img src="https://skillicons.dev/icons?theme=dark&i=fastapi,postgres,docker" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-00B4D8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-0077B6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00C896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00B4D8?style=flat-square&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python%20Automation-667eea?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-764ba2?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-667eea?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Applications-764ba2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Agents-667eea?style=flat-square&logoColor=white" /> </p>
 
+<!--
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!--                       FEATURED PROJECTS                               -->
