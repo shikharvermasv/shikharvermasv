@@ -65,7 +65,7 @@
 
 I'm a Programmer Analyst at Cognizant focused on cloud infrastructure, DevOps, automation, and backend engineering.
 
-I work across AWS, Azure, and GCP environments, with hands-on exposure to cloud operations, IAM/RBAC, incident resolution, infrastructure troubleshooting, and cloud governance.
+I work across AWS, Azure, and GCP environments, with hands-on exposure to cloud operations, IAM/RBAC, incident troubleshooting, infrastructure support, and cloud governance.
 
 Currently building deeper expertise in Terraform, AWS infrastructure, CI/CD, Python automation, Docker, and AI-powered backend systems.
 
@@ -75,7 +75,6 @@ Currently building deeper expertise in Terraform, AWS infrastructure, CI/CD, Pyt
 🐍 Backend & Automation — Python, FastAPI, REST APIs, scripting and automation
 🤖 AI Engineering — LLM APIs, RAG, AI agents, asynchronous backend workflows
 🔧 Cloud Operations — Incident troubleshooting, access management, VPN, compute and cloud support
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         WHAT I BUILD                                  -->
 
