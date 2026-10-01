@@ -24,9 +24,20 @@ Currently focused on building practical cloud and DevOps projects using AWS, Ter
 
 Terraform-based AWS infrastructure and container deployment platform using AWS, Terraform, Docker, GitHub Actions, ECR, private EC2, ALB, VPC endpoints, SSM, and GitHub OIDC.
 
-The project provisions and validates a private cloud environment, builds and publishes a containerized application through GitHub Actions, and serves the application through an Application Load Balancer.
+**Key highlights:**
 
-🔗 [View the project](https://github.com/shikharvermasv/cloud-infrastructure-provisioner)
+* Modular Terraform-based AWS infrastructure
+* Public/private VPC architecture across multiple Availability Zones
+* Private EC2 application deployment
+* Dockerized FastAPI application
+* GitHub Actions CI with automated testing and Docker image publishing
+* GitHub OIDC for keyless AWS authentication
+* Amazon ECR for container images
+* Application Load Balancer routing to the private application
+* VPC endpoints for private AWS service access
+* S3-backed Terraform remote state
+
+🔗 [View Project](https://github.com/shikharvermasv/cloud-infrastructure-provisioner)
 
 ## 📚 Currently Learning
 
@@ -38,6 +49,6 @@ The project provisions and validates a private cloud environment, builds and pub
 
 ## 📫 Connect
 
-🔗 [LinkedIn](www.linkedin.com/in/shikhar-verma-1b822722b)
+🔗 [LinkedIn](https://www.linkedin.com/in/shikhar-verma-1b822722b/)
 
 🔗 [GitHub](https://github.com/shikharvermasv)
